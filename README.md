@@ -2,7 +2,14 @@
 
 **`Desenvolvedor FullStack`**
 
-Muito prazer meu nome é Pablo! Sempre fui apaixonado por tecnologia e por resolução de problemas desde novo, e por essa razão desde meus 12 anos venho conhecendo cada vez mais o mundo da programação. Compartilho da ideia de que sempre é possível aprender mais com cada nova experiencia e ciclo! Estou em busca de novas oportunidades para ganhar mais experiência profissional e pessoal, buscando dar meu melhor e construir soluções inteligentes e assertivas para qualquer problema.
+Sou desenvolvedor Full Stack apaixonado por tecnologia e resolução de problemas.
+Programo desde os 15 anos, sempre buscando evoluir tecnicamente e criar soluções
+eficientes, escaláveis e bem estruturadas.
+
+Atualmente foco em aplicações web modernas, APIs robustas e boas práticas
+de arquitetura, com interesse constante em aprender novas tecnologias
+e aprimorar minhas habilidades profissionais e pessoais.
+
 
 ---
 
